@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Data/Artifacts
+data/raw/*
+!data/raw/.gitkeep
+data/sample/*
+!data/sample/.gitkeep
+outputs/
